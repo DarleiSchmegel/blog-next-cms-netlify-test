@@ -1,6 +1,6 @@
 backend:
   name: test-repo
-  branch: master
+  branch: main
 media_folder: public/img
 public_folder: img
 collections:
